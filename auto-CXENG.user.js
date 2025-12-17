@@ -7,7 +7,7 @@
 // @match        https://mooc1.chaoxing.com/mycourse/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chaoxing.com
 // @grant        none
-// @license MIT
+// @license      AGPL-3.0-only
 // ==/UserScript==
 
 (function() {
